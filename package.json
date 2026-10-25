@@ -1,0 +1,1 @@
+{"name":"alice-nikoles-baked-goods","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.js"},"dependencies":{"@vercel/blob":"^2.0.0","google-auth-library":"^10.0.0"}}
